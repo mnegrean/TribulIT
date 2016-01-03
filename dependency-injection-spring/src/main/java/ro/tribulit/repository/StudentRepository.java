@@ -16,6 +16,13 @@ public class StudentRepository {
         System.out.println(String.format("Saved student grade for %s.", discipline));
     }
 
+    /**
+     * Retrieves the student information for a certain discipline.
+     *
+     * @param student the student that the information is needed for.
+     * @param discipline the discipline we need the informaion for.
+     * @return an object with the requested information.
+     */
     public Object getStudentInfo(Student student, Discipline discipline) {
         // get the student info for the discipline from the db
         return null;
