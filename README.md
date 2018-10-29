@@ -8,3 +8,4 @@ This used to be the repository where I uploaded the code samples for tribulit. T
 However, in order to pay my respects for what tribulit once used to be (maybe it wasn't the largest blog, or maybe it wasn't even large, or a blog, but it was mine), I will post a few articles under the wiki pages.
 
 1. [Dependency Injection with examples](https://github.com/mnegrean/TribulIT/wiki/Dependency-Injection-with-examples)
+2. [Dependency Injection using Spring](https://github.com/mnegrean/TribulIT/wiki/Dependency-Injection-using-Spring)
