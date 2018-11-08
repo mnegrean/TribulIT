@@ -9,3 +9,4 @@ However, in order to pay my respects for what tribulit once used to be (maybe it
 
 1. [Dependency Injection with examples](https://github.com/mnegrean/TribulIT/wiki/Dependency-Injection-with-examples)
 2. [Dependency Injection using Spring](https://github.com/mnegrean/TribulIT/wiki/Dependency-Injection-using-Spring)
+3. [Java 8: Lambda expressions](https://github.com/mnegrean/TribulIT/wiki/Java-8:-Lambda-expressions)
