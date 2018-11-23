@@ -11,3 +11,4 @@ However, in order to pay my respects for what tribulit once used to be (maybe it
 2. [Dependency Injection using Spring](https://github.com/mnegrean/TribulIT/wiki/Dependency-Injection-using-Spring)
 3. [Java 8: Lambda expressions](https://github.com/mnegrean/TribulIT/wiki/Java-8:-Lambda-expressions)
 4. [13 intelligent shortcuts in Intellij Idea](https://github.com/mnegrean/TribulIT/wiki/13-intelligent-shortcuts-in-Intellij-Idea)
+5. [MongoDB for beginners](https://github.com/mnegrean/TribulIT/wiki/MongoDB-for-beginners)
