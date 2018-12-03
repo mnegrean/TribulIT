@@ -13,3 +13,4 @@ However, in order to pay my respects for what tribulit once used to be (maybe it
 4. [13 intelligent shortcuts in Intellij Idea](https://github.com/mnegrean/TribulIT/wiki/13-intelligent-shortcuts-in-Intellij-Idea)
 5. [MongoDB for beginners](https://github.com/mnegrean/TribulIT/wiki/MongoDB-for-beginners)
 6. [Jersey – Java implementation of JAX-RS](https://github.com/mnegrean/TribulIT/wiki/Jersey:-Java-implementation-of-JAX-RS)
+7. [Jersey – example using POST method](https://github.com/mnegrean/TribulIT/wiki/Jersey:-example-using-POST-method)
